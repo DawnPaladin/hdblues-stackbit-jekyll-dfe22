@@ -160,7 +160,7 @@ models:
       - type: string
         name: link
         label: Link
-        description: 'The link to the partner's page'
+        description: 'The link to the partner's page"
       - type: string
         name: name
         label: Name
