@@ -96,7 +96,8 @@ sections:
     has_background: true
     background_color: gray
   - title: lorem-ipsum
-    team: []
+    team:
+      - _data/team/person-yk0go4qpu.json
     type: team_section
 seo:
   title: Stackbit Starter Theme
