@@ -33,7 +33,7 @@
               <h3 class="h4">{{ partner_data.name }}</h3>
             </header>
             {% assign description_is_not_empty = partner_data.description | is_not_empty %}
-            {% if bio_is_not_empty %}
+            {% if description_is_not_empty %}
             <div class="">
               {{ partner_data.bio | markdownify }}
             </div>
