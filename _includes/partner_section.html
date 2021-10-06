@@ -34,7 +34,7 @@
             </header>
             {% assign bio_is_not_empty = partner_data.bio | is_not_empty %}
             {% if bio_is_not_empty %}
-            <div class="card__copy">
+            <div class="">
               {{ partner_data.bio | markdownify }}
             </div>
             {% endif %}
