@@ -24,6 +24,9 @@
             <img src="{{ person_data.photo | relative_url }}" alt="{{ person_data.photo_alt }}" />
           </figure>
           {% endif %}
+                    {% if link_is_not_empty %}
+          <a href="{{ section.link }}">
+          {% endif %}
           <div class="card__body">
             <header class="card__header">
               <h3 class="h4 card__title">{{ person_data.first_name }} {{ person_data.last_name }}</h3>
