@@ -55,6 +55,9 @@ sections:
       - _data/team/person-yk0go4qpu.json
       - _data/team/person-kot5ykli4.json
     type: team_section
+  - title: lorem-ipsum
+    team: []
+    type: team_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
