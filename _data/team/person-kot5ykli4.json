@@ -3,5 +3,6 @@
     "link": "lorem-ipsum",
     "first_name": "Black and yellow shirts",
     "photo_alt": "lorem-ipsum",
-    "type": "person"
+    "type": "person",
+    "photo": "images/shirts.webp"
 }
