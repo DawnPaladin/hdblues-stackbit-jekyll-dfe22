@@ -14,7 +14,7 @@ sections:
         url: /features
         style: primary
     align: left
-    image: images/hero.svg
+    image: images/no-hd-sign_4.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
