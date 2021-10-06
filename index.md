@@ -92,7 +92,7 @@ sections:
         image_position: left
         actions: []
   - type: cta_section
-    title: This Is A CTA
+    title: Spread the song!
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
