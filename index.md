@@ -95,7 +95,7 @@ sections:
     title: Spread the song!
     subtitle: >-
       Enjoy, download, share, and send the link to this page to everyone you
-      know, ***for free***. Just tell people I wrote it, and that they should
+      know, **_for free_**. Just tell people I wrote it, and that they should
       pass it forward.
     actions:
       - label: Live performance
