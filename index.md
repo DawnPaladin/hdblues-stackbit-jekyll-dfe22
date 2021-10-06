@@ -95,7 +95,7 @@ sections:
         no_follow: false
     has_background: true
     background_color: gray
-  - title: Store
+  - title: HD Products
     team:
       - _data/team/person-yk0go4qpu.json
       - _data/team/person-kot5ykli4.json
