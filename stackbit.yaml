@@ -155,6 +155,8 @@ models:
       - type: string
         name: id
         label: ID
+                description: 'A unique identifier used when filtering posts, e.g. "john-doe"'
+        required: true
   category:
     type: data
     label: Category
