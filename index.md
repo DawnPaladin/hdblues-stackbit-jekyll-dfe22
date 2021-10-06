@@ -55,16 +55,6 @@ sections:
       - _data/team/person-yk0go4qpu.json
       - _data/team/person-kot5ykli4.json
     type: team_section
-  - title: Learn and connect!
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        new_window: false
-        no_follow: false
-    has_background: false
-    background_color: white
-    type: cta_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
