@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: '"NO, SIR, I AM <i><u>NOT_</u> DRUNK"'
+    title: '"NO, SIR, I AM <i><u>NOT</u> DRUNK"'
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
