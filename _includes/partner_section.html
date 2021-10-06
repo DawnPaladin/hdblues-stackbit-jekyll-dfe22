@@ -12,7 +12,7 @@
     <div class="flex flex--col-3">
 
       {% for partner in section.team %}
-      {% assign person_data = person | get_data %}
+      {% assign partner_data = partner | get_data %}
       <div class="cell">
         <div class="card team-member">
           {% assign photo_is_not_empty = person_data.photo | is_not_empty %}
