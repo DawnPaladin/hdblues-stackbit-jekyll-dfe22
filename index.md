@@ -100,7 +100,7 @@ sections:
         style: primary
       - label: Lyric video
         url: '#'
-        style: link
+        style: primary
         new_window: false
         no_follow: false
     has_background: true
