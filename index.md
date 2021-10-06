@@ -93,7 +93,10 @@ sections:
         actions: []
   - type: cta_section
     title: Spread the song!
-    subtitle: "Enjoy, download, share, and send the link to this page to everyone you know,\_for free. Just tell people I wrote it, and that they should pass it forward."
+    subtitle: >-
+      Enjoy, download, share, and send the link to this page to everyone you
+      know, ***for free***. Just tell people I wrote it, and that they should
+      pass it forward.
     actions:
       - label: Live performance
         url: /features
