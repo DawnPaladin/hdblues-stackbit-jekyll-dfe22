@@ -290,6 +290,7 @@ models:
             - features_section
             - hero_section
             - team_section
+            - partners_section
       - type: model
         name: seo
         models:
