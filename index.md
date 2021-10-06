@@ -13,9 +13,6 @@ sections:
       - label: Listen to "HD Blues"
         url: /features
         style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
