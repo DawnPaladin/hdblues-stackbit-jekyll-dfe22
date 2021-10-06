@@ -95,7 +95,7 @@ sections:
         no_follow: false
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
+  - title: Store
     team:
       - _data/team/person-yk0go4qpu.json
     type: team_section
