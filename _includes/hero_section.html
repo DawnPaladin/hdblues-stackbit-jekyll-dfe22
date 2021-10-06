@@ -24,7 +24,7 @@
 
       <div class="cell section__body">
         {% assign title_is_not_empty = section.title | is_not_empty %}
-        {% assign }
+        {% assign link_is_not_empty = section.link | is_not_empty %}
         {% if title_is_not_empty %}
         <h1 class="section__title">{{ section.title | markdownify }}</h1>
         {% endif %}
