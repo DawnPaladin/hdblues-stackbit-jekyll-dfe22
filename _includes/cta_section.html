@@ -12,7 +12,7 @@
         {% assign subtitle_is_not_empty = section.subtitle | is_not_empty %}
         {% if subtitle_is_not_empty %}
         <div class="section__copy">
-          <p>{{ section.subtitle | markdownify}}</p>
+          <p>{{ section.subtitle | markdownify }}</p>
         </div>
         {% endif %}
         {% assign actions_is_not_empty = section.actions | is_not_empty %}
