@@ -92,7 +92,7 @@ sections:
         image_position: left
         actions: []
   - type: blog_feed_section
-    title: What's New
+    title: Buy the shirts
     show_recent: true
     recent_count: 3
   - type: cta_section
