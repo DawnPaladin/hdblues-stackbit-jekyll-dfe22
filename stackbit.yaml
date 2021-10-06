@@ -517,7 +517,8 @@ models:
         label: Partners
         items:
           type: reference
-          models: []
+          models:
+            - partner
   feature:
     type: object
     label: Feature
