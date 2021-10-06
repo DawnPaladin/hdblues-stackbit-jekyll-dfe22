@@ -500,7 +500,19 @@ models:
   partners_section:
     type: object
     label: Partners Section
-    labelField: 
+    labelField: title
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section
+      - type: list
+        name: partners
+        label: Partners
+        items:
+          type: reference
+          models:
+            - partner
   feature:
     type: object
     label: Feature
