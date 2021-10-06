@@ -98,7 +98,7 @@ sections:
       know, **_for free._** Just tell people I wrote it, and that they should
       pass it forward.
     actions:
-      - label: Live performance
+      - label: Live performance video
         url: /features
         style: primary
       - label: Lyric video
