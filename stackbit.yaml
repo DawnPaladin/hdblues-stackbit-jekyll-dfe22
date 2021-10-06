@@ -168,7 +168,7 @@ models:
         label: Name
         required: true
       - type: image
-        name: photo
+        name: image
         label: Image
       - type: string
         name: photo_alt
