@@ -168,6 +168,12 @@ models:
       - type: image
         name: photo
         label: Image
+      - type: string
+        name: photo_alt
+        label: Image Alt Text
+      - type: markdown
+        name: description
+        label: Description
   category:
     type: data
     label: Category
