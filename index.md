@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: '"NO, SIR, I AM <i><u>NOT</u></i> DRUNK"'
+    title: '"NO, SIR, I AM <i><u>NOT</u></i>  DRUNK"'
     subtitle: |-
       "I struggle with a 
       genetic progressive neurodegenerative disease causing gradual 
