@@ -55,7 +55,7 @@ sections:
       - _data/team/person-yk0go4qpu.json
       - _data/team/person-kot5ykli4.json
     type: team_section
-  - title: lorem-ipsum
+  - title: Learn and connect!
     team: []
     type: team_section
 seo:
