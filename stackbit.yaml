@@ -149,6 +149,8 @@ models:
   partner:
     type: data
     label: Partner
+    folder: partners
+    labelField: id
   category:
     type: data
     label: Category
