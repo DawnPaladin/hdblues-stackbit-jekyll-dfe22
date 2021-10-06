@@ -56,7 +56,8 @@ sections:
       - _data/team/person-kot5ykli4.json
     type: team_section
   - title: Learn and connect!
-    partners: []
+    partners:
+      - _data/partners/partner-pjupn3jlf.json
     type: partners_section
 seo:
   title: Stackbit Starter Theme
