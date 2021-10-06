@@ -2,6 +2,6 @@
     "id": "hdsa",
     "link": "https://www.hdsa.org/",
     "name": "Huntington's Disease Society of America",
-    "photo_alt": "HDSA logo",
-    "photo": "images/hdsa.png"
+    "image_alt": "HDSA logo",
+    "image": "images/hdsa.png"
 }
