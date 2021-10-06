@@ -24,6 +24,19 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+  - title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
   - type: features_section
     title: Features
     features:
@@ -81,19 +94,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
