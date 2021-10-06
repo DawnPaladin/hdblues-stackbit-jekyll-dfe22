@@ -165,6 +165,7 @@ models:
         name: name
         label: Name
         required: true
+        type: image
         
   category:
     type: data
