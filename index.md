@@ -40,10 +40,7 @@ sections:
     title: Features
     features:
       - title: Join the HD Blues campaign
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "You may have Huntington's Disease, know someone who has it, be part of a medical or research or pharmacological community working with HD, run \nan HD support group, be a Woody Guthrie fan, or simply want a new excuse for acting drunk.\_Whatever your connection, join us and stop people in their tracks for a teachable moment: *This *is HD.\_\n\nBrian Schrag, Founder\n"
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
