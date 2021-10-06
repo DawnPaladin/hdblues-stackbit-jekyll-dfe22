@@ -146,6 +146,8 @@ models:
       - type: markdown
         name: bio
         label: Bio
+  partner:
+    
   category:
     type: data
     label: Category
