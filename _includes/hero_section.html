@@ -27,7 +27,7 @@
         {% assign link_is_not_empty = section.link | is_not_empty %}
         {% if title_is_not_empty %}
         {% if link_is_not_empty %}
-        <a href=
+        <a href="{"
         <h1 class="section__title">{{ section.title | markdownify }}</h1>
         {% endif %}
         {% assign subtitle_is_not_empty = section.subtitle | is_not_empty %}
