@@ -57,7 +57,6 @@ sections:
     type: team_section
   - title: Learn and connect!
     partners:
-      - _data/partners/partner-pjupn3jlf.json
       - _data/partners/hdsa.json
     type: partners_section
 seo:
