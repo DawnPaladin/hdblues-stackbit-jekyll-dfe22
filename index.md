@@ -32,10 +32,7 @@ sections:
         image: images/Brian-cropped-fall-2012-e1542400743137.jpg
         image_alt: Feature 1 placeholder image
         image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
