@@ -162,6 +162,7 @@ models:
         label: Link
         description: 'The link to the partner's page'
       - type: string
+        name: 
   category:
     type: data
     label: Category
