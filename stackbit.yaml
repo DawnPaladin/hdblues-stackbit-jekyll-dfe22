@@ -147,7 +147,8 @@ models:
         name: bio
         label: Bio
   partner:
-    
+    type: data
+    label: Partner
   category:
     type: data
     label: Category
