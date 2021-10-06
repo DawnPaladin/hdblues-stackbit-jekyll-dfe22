@@ -3,9 +3,12 @@ title: Home
 sections:
   - type: hero_section
     title: '"NO, SIR, I AM <i><u>NOT</u></i> DRUNK"'
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: |-
+      "I struggle with a 
+      genetic progressive neurodegenerative disease causing gradual 
+      deterioration of movement, cognitive function, emotional control, 
+      blurring of social boundaries and inherited in an autosomal dominant 
+      pattern…. Are we good?”
     actions:
       - label: Learn More
         url: /features
