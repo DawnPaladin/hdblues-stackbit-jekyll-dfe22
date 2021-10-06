@@ -29,7 +29,7 @@ sections:
       - title: Join the HD Blues campaign
         content: "You may have Huntington's Disease, know someone who has it, be part of a medical or research or pharmacological community working with HD, run\nan HD support group, be a Woody Guthrie fan, or simply want a new excuse for acting drunk.\_Whatever your connection, join us and stop people in their tracks for a teachable moment: *This* is HD.\_\n\nBrian Schrag, Founder\n"
         align: left
-        image: images/Brian-cropped-fall-2012-e1542400743137.jpg
+        image: images/brian.jpg
         image_alt: Feature 1 placeholder image
         image_position: left
         actions: []
