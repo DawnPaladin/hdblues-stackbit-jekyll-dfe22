@@ -58,6 +58,7 @@ sections:
   - title: Learn and connect!
     team:
       - _data/team/hdsa.json
+      - _data/team/hd-buzz.json
     type: team_section
 seo:
   title: Stackbit Starter Theme
