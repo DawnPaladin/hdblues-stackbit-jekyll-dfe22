@@ -164,6 +164,8 @@ models:
       - type: string
         name: name
         label: Name
+        required: true
+        
   category:
     type: data
     label: Category
