@@ -151,6 +151,10 @@ models:
     label: Partner
     folder: partners
     labelField: id
+    fields:
+      - type: string
+        name: id
+        label: ID
   category:
     type: data
     label: Category
