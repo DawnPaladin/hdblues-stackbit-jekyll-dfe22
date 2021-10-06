@@ -93,9 +93,7 @@ sections:
         actions: []
   - type: cta_section
     title: Spread the song!
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: "Enjoy, download, share, and send the link to this page to everyone you know,\_for free. Just tell people I wrote it, and that they should pass it forward."
     actions:
       - label: Learn More
         url: /features
