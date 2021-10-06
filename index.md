@@ -98,7 +98,7 @@ sections:
       - label: Live performance
         url: /features
         style: primary
-      - label: lorem-ipsum
+      - label: Lyric video
         url: '#'
         style: link
         new_window: false
