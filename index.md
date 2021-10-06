@@ -10,7 +10,7 @@ sections:
       blurring of social boundaries and inherited in an autosomal dominant 
       pattern…. Are we good?”
     actions:
-      - label: Learn More
+      - label: Listen to "HD Blues"
         url: /features
         style: primary
       - label: Contact Us
