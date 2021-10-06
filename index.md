@@ -91,10 +91,6 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions: []
-  - type: blog_feed_section
-    title: Buy the shirts
-    show_recent: true
-    recent_count: 3
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
