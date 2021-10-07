@@ -1,0 +1,25 @@
+body {
+	background-image: url('/images/dark-stone.jpg');
+	background-color: #181818;
+	color: #fff;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+	color: #fff;
+}
+a {
+	color: #df6500;
+}
+.menu li {
+	color: #df6500;
+}
+button, input[type="submit"], input[type="button"], input[type="reset"], .btn {
+	background-color: #df6500;
+	color: black;
+	border: 2px solid black;
+}
+.bg-gray {
+	background: #2b2a2a;
+}
+.card {
+	background-color: #2b2a2a;
+}
