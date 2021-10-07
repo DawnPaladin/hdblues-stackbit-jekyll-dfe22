@@ -61,6 +61,7 @@ sections:
       - _data/partners/hd-buzz.json
       - _data/partners/hdlf.json
       - _data/partners/make-life.json
+      - _data/partners/at-play.json
     type: partners_section
 seo:
   title: Stackbit Starter Theme
