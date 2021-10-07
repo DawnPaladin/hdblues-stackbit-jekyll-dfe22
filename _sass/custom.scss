@@ -12,14 +12,22 @@ a {
 .menu li {
 	color: #df6500;
 }
+.site-header {
+	border-bottom: none;
+}
+.site-footer {
+	border-top: none;
+	background: rgba(16, 16, 16, 0.75);
+}
 button, input[type="submit"], input[type="button"], input[type="reset"], .btn {
 	background-color: #df6500;
 	color: black;
 	border: 2px solid black;
 }
 .bg-gray {
-	background: #2b2a2a;
+	background: rgba(16, 16, 16, 0.75);
 }
 .card {
-	background-color: #2b2a2a;
+	background: rgba(16, 16, 16, 0.75);
+	border: 2px solid black;
 }
