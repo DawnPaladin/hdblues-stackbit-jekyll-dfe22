@@ -65,7 +65,7 @@ sections:
       - _data/partners/help4hd.json
     type: partners_section
 seo:
-  title: Stackbit Starter Theme
+  title: HD Blues
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
