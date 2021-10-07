@@ -455,9 +455,14 @@ models:
             name: background_color
             label: Background Color
             options:
-              - white
-              - gray
-              - blue
+              - label: white
+                value: white
+              - label: gray
+                value: gray
+              - label: blue
+                value: blue
+              - label: ''
+                value: ''
             default: white
             description: The background color of the section
           - type: image
