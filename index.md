@@ -66,7 +66,7 @@ sections:
     type: partners_section
 seo:
   title: HD Blues
-  description: The preview of the Starter theme
+  description: Dissing Huntington's Disease Since 2012
   extra:
     - name: 'og:type'
       value: website
