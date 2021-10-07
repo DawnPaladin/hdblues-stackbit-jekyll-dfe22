@@ -59,6 +59,7 @@ sections:
     partners:
       - _data/partners/hdsa.json
       - _data/partners/hd-buzz.json
+      - _data/partners/hdlf.json
     type: partners_section
 seo:
   title: Stackbit Starter Theme
