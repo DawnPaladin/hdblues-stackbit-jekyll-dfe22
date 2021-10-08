@@ -29,7 +29,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: left
         actions: []
-  - title: lorem-ipsum
+  - title: Join the HD Blues campaign
     content: >-
       ## Lorem ipsum
 
