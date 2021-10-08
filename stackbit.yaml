@@ -565,7 +565,7 @@ models:
           type: model
           models:
             - action
-      - name: ''
+      - name: Class
         type: string
   action:
     type: object
