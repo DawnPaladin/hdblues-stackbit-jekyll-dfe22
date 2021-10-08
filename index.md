@@ -29,6 +29,19 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: left
         actions: []
+  - title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
   - type: cta_section
     title: Spread the song!
     subtitle: >-
@@ -60,19 +73,6 @@ sections:
       - _data/partners/at-play.json
       - _data/partners/help4hd.json
     type: partners_section
-  - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
 seo:
   title: HD Blues
   description: Dissing Huntington's Disease Since 2012
