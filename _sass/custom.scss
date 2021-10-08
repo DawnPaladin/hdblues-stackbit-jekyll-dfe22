@@ -34,8 +34,13 @@ button, input[type="submit"], input[type="button"], input[type="reset"], .btn {
 .section--team .cell {
 	max-width: 100%;
 }
+.section--team .flex { // responsive design for Store section on front page
+	@media (max-width: 599px) {
+		flex-direction: column;
+	}
+}
 
-.featured-image {
+.featured-image { // responsive design for Brian's picture on front page
 	@media (min-width: 1000px) {
 		margin-right: 2em;
 	}
