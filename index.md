@@ -40,7 +40,7 @@ sections:
         url: 'http://www.youtube.com/watch?v=BWajNkvnOEs'
         style: primary
       - label: Lyric video
-        url: '#'
+        url: 'http://www.youtube.com/watch?v=YcxBVv98Nw0'
         style: primary
         new_window: false
         no_follow: false
