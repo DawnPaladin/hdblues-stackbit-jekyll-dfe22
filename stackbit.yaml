@@ -567,6 +567,7 @@ models:
             - action
       - name: Class
         type: string
+        description: Special CSS class to apply
   action:
     type: object
     label: Action
