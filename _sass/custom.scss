@@ -34,3 +34,12 @@ button, input[type="submit"], input[type="button"], input[type="reset"], .btn {
 .section--team .cell {
 	max-width: 100%;
 }
+
+.featured-image {
+	@media (min-width: 1000px) {
+		margin-right: 2em;
+	}
+	@media (max-width: 999px) {
+		margin: 1em;
+	} 
+}
