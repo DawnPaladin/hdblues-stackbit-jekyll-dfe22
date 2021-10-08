@@ -37,7 +37,7 @@ sections:
       pass it forward.
     actions:
       - label: Live performance video
-        url: /features
+        url: 'http://www.youtube.com/watch?v=BWajNkvnOEs'
         style: primary
       - label: Lyric video
         url: '#'
