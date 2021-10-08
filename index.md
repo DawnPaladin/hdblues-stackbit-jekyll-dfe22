@@ -11,7 +11,7 @@ sections:
       pattern…. Are we good?”
     actions:
       - label: Listen to "HD Blues"
-        url: /media/hd_blues_mastered_mix_3.mp3
+        url: /images/hd_blues_mastered_mix_3.mp3
         style: primary
     align: left
     image: images/no-hd-sign_4.png
